@@ -19,7 +19,6 @@ html,body{
 .nav{
     height: 130px;
     width: 100%;
-    /*background-color: red;*/
     display: flex;
     align-items: center;
     padding: 0 50px;
@@ -30,7 +29,6 @@ html,body{
     align-items:center;
     width: 50%;
     justify-content: space-between;
-    /*background-color: blue;*/
 }
 .nav h1{
     font-size: 20px;
@@ -62,24 +60,20 @@ html,body{
     display: flex;
     justify-content: space-between;
     position: relative;
-    /*background-color: aquamarine;*/
 }
 .left{
     width: 36%;
     height: 100%;
-    /*background-color: aliceblue;*/
     padding: 80px 50px;
 }
 .right{
     width: 36%;
     height: 100%;
-    /*background-color: aliceblue;*/
     padding: 230px 30px;
 }
 .center{
     width: 24%;
     height: 100%;
-    /*background-color:greenyellow;*/
     padding-top: 60px;
 }
 .left h1{
@@ -124,7 +118,6 @@ html,body{
     transform: translate(-50%,0);
 }
 .right_elem{
-    /*background-color: red;*/
     width: 350px;
 }
 .element1{
@@ -133,7 +126,6 @@ html,body{
     align-items: center;
     height: 50px;
     opacity: 0.6;
-    /*background-color: blue;*/
     border-bottom: 1px solid white;
 }
 .element1 h1{
